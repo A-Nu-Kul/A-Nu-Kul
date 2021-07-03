@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi there 👋, Anukul Sharma
+### Hi there 👋, (**Anukul Sharma**)
 #### Design & Development
 ![Design & Development](https://pbs.twimg.com/profile_banners/999630303923617792/1591254233/1080x360)
 
