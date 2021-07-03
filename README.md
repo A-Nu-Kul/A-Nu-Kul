@@ -10,7 +10,7 @@ I'm Anukul Sharma residing in Australia and currently work as a Freelance Java D
 * 💻 HTML / CSS / JS
 * 🔗 PHP
 
-## Additional
+##  Information
 - 🔭 I’m currently working on My Own Company 
 - 🌱 I’m currently learning MERN 
 - 📫 How to reach me: contactsharmaanukul@gmail.com 
