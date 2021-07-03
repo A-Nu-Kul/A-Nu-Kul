@@ -1,6 +1,7 @@
+![Design & Development](https://github.com/A-Nu-Kul/A-Nu-Kul/blob/main/Anukul.jpg)
+
 ### Hi there 👋, <**Anukul Sharma** />
 #### Design & Development
-![Design & Development](https://github.com/A-Nu-Kul/A-Nu-Kul/blob/main/Anukul.jpg)
 
 I'm Anukul Sharma residing in Australia and currently work as a Freelance Java Developer, Web designer and Android Developer. I have many years of experience developing Websites, mobile apps and software for both myself and for clients.
 
